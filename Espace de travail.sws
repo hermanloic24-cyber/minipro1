@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{3C27BF81-EABC-40DE-B8F9-47EC28FC042D}" Loaded="No" Name="Diagramme de classes UML_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../Diagramme de classes UML_1.moo"/>
+		<Model Expanded="Yes" ID="{390E404A-E814-4AC8-80ED-0CF950ADA52E}" Loaded="No" Name="Données logiques_1" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="../Données logiques_1.mld"/>
+		<Model Expanded="Yes" ID="{2817BA1B-89D3-4954-A435-515B2309320E}" Loaded="No" Name="Données physiques_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../Données physiques_1.mpd"/>
+		<Model Expanded="Yes" ID="{DBD9E11B-60D9-41FF-A520-99C12BAB04F6}" Loaded="No" Name="Diagramme de classes_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../Diagramme de classes_1.moo"/>
+		<Model Expanded="Yes" ID="{DBD9E11B-60D9-41FF-A520-99C12BAB04F6}" Name="Diagramme de classes_1" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../Diagramme de classes_1.moo"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
